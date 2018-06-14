@@ -3,7 +3,8 @@
 Reward是一个打赏插件，简单来说 就是那种有钱的土豪大佬看上我写的白水文，随手就点一下打赏，然后我就收到了这笔钱。
 
 
-demo: https://yubanmei.com/archives/27/
+demo:   
+https://yubanmei.com/archives/27/ 
 
 注意事项
 
@@ -24,9 +25,9 @@ demo: https://yubanmei.com/archives/27/
 
 引用项目
 
-https://github.com/t4t5/sweetalert
-https://github.com/musnow/alipayf2f
-https://github.com/musnow/payjs
+https://github.com/t4t5/sweetalert  
+https://github.com/musnow/alipayf2f  
+https://github.com/musnow/payjs  
 
 
 # License 许可证
