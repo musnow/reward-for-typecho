@@ -11,6 +11,12 @@ https://yubanmei.com/archives/27/
 下载项目，将Reward文件夹放到./usr/plugins/<Reward>这个地方即可，请不要更改文件夹名称，会导致找不到文件。
 然后到typecho后台启用即可
 
+### 更改JavaScript
+```
+npm i
+npm run watch
+```
+
 注意事项
 
  - 设置正确的时区

@@ -12,4 +12,4 @@ let mix = require('laravel-mix');
  */
 
 mix.setPublicPath('./')
-    .js('src/app.js', 'js/')
+    .js('src/app.js', 'Reward/js/')
