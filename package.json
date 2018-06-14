@@ -1,0 +1,22 @@
+{
+    "name": "rewardforpayjs",
+    "version": "1.0.0",
+    "description": "reward Plugin",
+    "author": "musnow",
+    "license": "MIT",
+    "dependencies": {
+        "sweetalert": "^2.1.0",
+        "sweetalert2": "^7.22.2"
+    },
+    "devDependencies": {
+        "cross-env": "^5.1.6",
+        "laravel-mix": "^2.1.11"
+    },
+    "scripts": {
+        "dev": "cross-env NODE_ENV=development webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "cross-env NODE_ENV=development webpack --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "hot": "cross-env NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "cross-env NODE_ENV=production webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    }
+}

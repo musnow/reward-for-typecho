@@ -1,0 +1,43 @@
+.swal-footer{
+    text-align: center;
+}
+#plugin-total{
+    width: 220px!important;
+    margin: 0px auto;
+    -webkit-appearance: none;
+    background-color: #fff;
+    border: none;
+    font-size: 14px;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid rgba(0,0,0,.14);
+    padding: 10px 13px;
+    border-radius: 2px;
+    transition: border-color .2s;
+}
+#plugin-total:focus{
+    outline: none;
+    border-color: #6db8ff;
+}
+#plugin-render{
+    background-color: #a3dd82;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.07);
+    border-radius: 4px;
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    color: #fff;
+    padding: 9px 18px;
+}
+#plugin-render:hover{
+    background-color: #98d973;
+}
+
+#plugin{
+    margin: 20px auto;
+    width: 66px;
+    display: block;
+    position: relative;
+    z-index: 2;
+}
