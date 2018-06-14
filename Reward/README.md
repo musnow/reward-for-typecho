@@ -6,6 +6,11 @@ Reward是一个打赏插件，简单来说 就是那种有钱的土豪大佬看�
 demo:   
 https://yubanmei.com/archives/27/ 
 
+### 如何安装
+
+下载项目，将Reward文件夹放到./usr/plugins/<Reward>这个地方即可，请不要更改文件夹名称，会导致找不到文件。
+然后到typecho后台启用即可
+
 注意事项
 
  - 设置正确的时区
